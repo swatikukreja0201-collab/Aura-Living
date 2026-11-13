@@ -1,0 +1,6 @@
+{
+  "name": "AURA Living",
+  "description": "Scandinavian-inspired architectural homeware, stoneware ceramics, alabaster lighting, unbleached textiles, and sculptural oak furniture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
